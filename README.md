@@ -15,7 +15,7 @@ Clone this repository then in the project root directory install the project's d
 Alternatively, you can run the following commands:
 
 ```
- npx degit https://github.com/aalnussairi/monday.com-birthday-emailer-ts/
+ npx degit https://github.com/aalnussairi/monday.com-birthday-emailer/
  npm run install
 ```
 
