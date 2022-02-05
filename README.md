@@ -8,6 +8,12 @@ For the TypeScript Implementation, [click here] (https://github.com/aalnussairi/
 
 For the Serverless.js (AWS Lambda) Implementation, [click here] (TO BE UPDATED)
 
+## Node Version Disclaimer
+
+This app uses ESModules. It is highly recommended as such to use node 12.17.0 **OR HIGHER**
+
+Furthermore, when importing files, you may have to use import x from 'directory/script.js' as opposed to ... from 'directory/script'
+
 ## Installation Information
 
 Clone this repository then in the project root directory install the project's dependencies using the following command `npm install`
