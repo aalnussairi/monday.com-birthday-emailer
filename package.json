@@ -38,6 +38,6 @@
     "cross-port-killer": "^1.4.0",
     "eslint": "^8.8.0",
     "ngrok": "^4.3.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.20"
   }
 }
